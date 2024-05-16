@@ -1,0 +1,3 @@
+In this project i had created a complete food ordering website / app using React JS, MongoDB, Express, Node JS and Stripe payment gateway. In this Full Stack Food delivery app project i had created the Frontend website, Admin Panel and Backend server. 
+I had also created the user authentication system so that anyone can create an account and login this food order website or creatd the shopping cart functionality so that user can add food items in their cart and order food from this app. I had also integrated the Stripe payment gateway to place the order and with online payment.
+Then i had created the order status update features also.
